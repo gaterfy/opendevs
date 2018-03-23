@@ -1,0 +1,13 @@
+Team ROBOT Human : KUNSANGABO NDONGALA Berfy
+
+Objectif de la semaine: 
+19 / mars : Choix du sujet : PHaroThings Avec Arduino
+
+Objectif : Rajouter du code.
+Il s'agit ici de rajouter du code , créer une classe ArduinoBoardUno (initialise les pins) et ArduinoAnalog(initialise les pins analogiques) héritant de ArduinoBoard permettant de connecter des pins.
+
+J'ai créer la méthode initialise permettant d'initialiser les pins en attribuant les bons numéro,
+ainsi l'inspector fonctionne sans problème.
+
+Regarder la capture d'écrans dans ce dossier.
+

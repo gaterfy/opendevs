@@ -1,0 +1,11 @@
+Team ROBOT Human : KUNSANGABO NDONGALA Berfy
+
+Objectif de la semaine: 
+07 / mars : Choix du sujet : PHaroThings Avec Arduino
+
+Objectif : Faire Fonctionner la carte Arduino En utilisant Firmata avec Ordinateur.
+Connecter La carte ArduinoUno avec Firmata , l objectif était atteint en effectuant des nombreux
+tests.
+
+La prochaine semaine nous essayerons de faire fonctionner l 'inspector.
+

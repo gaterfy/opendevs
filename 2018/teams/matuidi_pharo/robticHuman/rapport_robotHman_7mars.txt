@@ -1,0 +1,18 @@
+
+Team ROBOT Human : KUNSANGABO NDONGALA Berfy
+
+Objectifs de la semaine: 
+
+
+Objectif : explorer le system browser et découvrir les paquage des classes.
+Notament sur les implémentations des classes RasbpberryBoard.
+
+La particularité de mon projet est que je suis le seul à expérminenter arduino ,directement avec
+pharo car meme le createur de ce projet ne l avait pas encore fait. L'ajout du code est prévu pour la semaine prochaine.
+
+Objectif 2: Prendre contact avec le createur du projet(Denis) par mail.
+
+Cette échange avec dénis à été très fructueuse c'est qui m'a permis d'avancer un peu
+plus sur ce projet. 
+
+

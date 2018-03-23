@@ -1,0 +1,19 @@
+Team ROBOT Human : KUNSANGABO NDONGALA Berfy
+
+Rendu Finale: 
+23 / mars : 
+
+Objectif : connecter une led sur l'Arduino et l'allumer à partir de Pharo.
+vous trouverez la capture led_marche.png du  bout de code et l'inspecteur fonctionant,
+
+j'ai connecté la Led 13 en OutPut.
+
+J'ai choisi ce projet pour sa diversité et c'est grace à ce dernière que j ai vraiment appris
+des choses comme firmata par exemple pour mes projets Arduino(je suis un bricoleur).
+
+Vous trouverez dans le dossier ArduinoBoard les codes que j'ai rajoutés et aui bien évidemment que ca marche très bien.
+Veuillez recevoir mes chaleureuses salutations.
+
+Cordialement
+KUNSANGABO NDONGALA Berfy
+
